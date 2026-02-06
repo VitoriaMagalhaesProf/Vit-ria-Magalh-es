@@ -1,4 +1,4 @@
-# Vitória-MagalhãesProf
+# VitóriaMagalhãesProf
 
 <h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
